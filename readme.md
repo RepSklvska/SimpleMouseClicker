@@ -4,6 +4,10 @@ Can be useful especially when you have too many tokens or oranges in 100% Orange
 
 <br>
 
+<a href="https://github.com/RepSklvska/SimpleMouseClicker/releases">Release page</a>
+
+<br>
+
 Usage:
 
 - Open the released executable file.
